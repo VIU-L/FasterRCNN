@@ -1,0 +1,2 @@
+CLASSNAMES=["person", "bird", "cat", "cow", "dog", "horse", "sheep", "aeroplane", "bicycle", "boat", "bus", "car", "motorbike", "train", "bottle", "chair", "diningtable", "pottedplant", "sofa", "tvmonitor","EMPTY"]
+CLASSNAMES_MAP = {CLASSNAMES[i]: i for i in range(len(CLASSNAMES))}
